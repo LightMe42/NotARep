@@ -1,3 +1,4 @@
 Test file 
 last one
 Line from User 2
+Some new feature
