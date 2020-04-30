@@ -1,2 +1,2 @@
-Test file...
-12345678
+Test file 
+new one
