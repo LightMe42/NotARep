@@ -1,2 +1,3 @@
 one more
 more strings
+Line from user 2
