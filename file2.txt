@@ -3,3 +3,4 @@ more strings
 Line from user 2
 another line from user2
 critical bug fixed
+
